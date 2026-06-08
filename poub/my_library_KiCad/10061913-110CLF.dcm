@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 10061913-110CLF
+D PCI Express<sup>&reg;</sup> Gen 3 Card Edge Connector, Storage and Server System, Vertical - Mount Connector, Surface Mount Termination, 36 Positions.
+K
+F https://cdn.amphenol-cs.com/media/wysiwyg/files/documentation/datasheet/ssio/ssio_pcie_gen3.pdf
+$ENDCMP
+#
+#End Doc Library

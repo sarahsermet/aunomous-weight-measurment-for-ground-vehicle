@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP B5819W-TP
+D Small Signal Schottky Diodes
+K
+F https://mccsemi.com/pdf/Products/B5817W-B5819W(SOD-123).pdf
+$ENDCMP
+#
+#End Doc Library
