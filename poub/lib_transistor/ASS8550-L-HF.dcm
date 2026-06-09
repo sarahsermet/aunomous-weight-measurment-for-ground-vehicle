@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ASS8550-L-HF
+D Bipolar Transistors - BJT AUTOMOTIVE TRANS GEN PURP PNP 40V 1.5A 0.3W SOT-23
+K
+F https://www.mouser.it/datasheet/2/80/AQW_JTR17_ASS8550_L_HF_Thru__ASS8550_H_HF_RevA-1923799.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,6 +1,5 @@
 (sym_lib_table
   (version 7)
-  (lib (name "SymbGamelGe2_v8.0")(type "KiCad")(uri "${KIPRJMOD}/LibGamelGe2_v8.0/LibGamelGe2_v8.0/SymbGamelGe2_v8.0.kicad_sym")(options "")(descr ""))
-  (lib (name "10061913-110CLF")(type "KiCad")(uri "${KIPRJMOD}/my_library_KiCad/10061913-110CLF.kicad_sym")(options "")(descr ""))
-  (lib (name "B5819W-TP")(type "KiCad")(uri "${KIPRJMOD}/diode/B5819W-TP.kicad_sym")(options "")(descr ""))
+  (lib (name "10061913-110CLF")(type "KiCad")(uri "${KIPRJMOD}/lib_PCI_express_x1/10061913-110CLF.kicad_sym")(options "")(descr ""))
+  (lib (name "FM5817-W")(type "KiCad")(uri "${KIPRJMOD}/lib_diode/FM5817-W.kicad_sym")(options "")(descr ""))
 )

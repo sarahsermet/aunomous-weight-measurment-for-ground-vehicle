@@ -1,4 +1,4 @@
-26715397533138985
+26720740517051891
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -106343,10 +106343,31 @@ Varistor VF
 0
 2
 2
-my_library_KiCad
+lib_PCI_express_x1
 10061913110CLF
 10061913-110CLF-4
 Connector
 0
 38
 38
+lib_diode
+DIOM5025X231N
+https://componentsearchengine.com/ga/jobs.php?partLimit=100
+Schottky Diode
+0
+2
+2
+lib_traco
+TSR-0.5-2433
+TSR-0.5-2433
+Power Supply
+0
+3
+3
+lib_transistor
+SOT95P240X105-3N
+SOT-23
+Transistor BJT PNP
+0
+3
+3
