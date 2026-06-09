@@ -1,0 +1,5 @@
+not_backuped
+*.lck
+*-backups/
+\#auto_saved_files\#
+*-cache
